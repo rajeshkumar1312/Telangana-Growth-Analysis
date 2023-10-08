@@ -325,7 +325,9 @@ Visit more Information [E-Stamp Registration](https://registration.telangana.gov
 - - Bottom 3 Districts in vehicle sales in 2022 compared to 2021 Warangal, Jagtial, and Nirmal districts faced substantial drops in vehicle sales at -44.7%, -37.1%, and -34.4% respectively
 - - These declines highlight the need to tailor business approaches to fit local market. changing consumer preferences
 
-## Ts-Ipass (Telangana State Industrial Project Approval and Self Certification System)
+## TS IPASS
+
+### TS-IPASS(Telangana State Industrial Project Approval and Self Certification System)
 
 ### 📌Q8:List down the top 5 sectors that have witnessed the most significant investments in FY 2022 
 
